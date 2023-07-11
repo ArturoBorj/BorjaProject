@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BorjaProject.iws.api.props" />
+</Project>
